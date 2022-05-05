@@ -1,4 +1,4 @@
-package first;
+package assignment;
 
 public class Volume {
 public int volume (int s)

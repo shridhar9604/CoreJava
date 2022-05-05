@@ -1,4 +1,4 @@
-package first;
+package assignment;
 
 public class HelloWorld {
 public static void main(String[] args) {

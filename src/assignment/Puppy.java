@@ -1,4 +1,4 @@
-package first;
+package assignment;
 
 public class Puppy {
     public Puppy(String name) 

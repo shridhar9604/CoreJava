@@ -1,6 +1,6 @@
-package first;
+package assignment;
 
-public class Nested {
+public class Nestedforloop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
