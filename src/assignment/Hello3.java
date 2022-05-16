@@ -7,5 +7,4 @@ public class Hello3 {
      String var=new String("Hello world");
   System.out.println(var);
 	}
-
 }
