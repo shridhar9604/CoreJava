@@ -14,7 +14,7 @@ public class Thread4 extends Thread {
 		obj.start();
 		ob.start();
 		o.start();
-		obj.stop();
+	//	obj.stop();
 		//ob.suspend();
 
 	}
