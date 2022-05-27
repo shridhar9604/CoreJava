@@ -1,4 +1,4 @@
-package oopsConcept;
+package inheritance;
 
 public class Result1 {  
 	public static void main(String[] args) {

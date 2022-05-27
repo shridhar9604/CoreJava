@@ -6,7 +6,7 @@ public class Dicionoperator1 {
 		// TODO Auto-generated method stub
 
 		int x = 10; int y = 11;
-		if(!(x > y) )
+		if((x > y) )
 		{
 		System.out.println("Condition is TRUE");
 		}

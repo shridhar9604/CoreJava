@@ -11,7 +11,7 @@ System.out.println(data);
 }
 catch (Exception e)
 {
-	System.out.println("can't devide integer by 0!");
+	System.out.println("can't devide integer by 0");
 }
 finally
 {

@@ -1,4 +1,4 @@
-package oopsConcept;
+package inheritance;
 
 public class A {
 	public void methodA() {
