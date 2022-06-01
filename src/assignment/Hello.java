@@ -20,7 +20,7 @@ package assignment;
 		
 				byte byteMin = -128;
 				
-			
+			System.out.println(max);
 	
 			}	
 	}

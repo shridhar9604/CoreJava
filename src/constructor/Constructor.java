@@ -14,8 +14,8 @@ public class Constructor {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Constructor ob = new Constructor();
-		Constructor ob1 = new Constructor(5);
+		Constructor ob1 = new Constructor(7);
 
-	}
+	
 
-}
+}}

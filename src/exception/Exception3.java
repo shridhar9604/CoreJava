@@ -10,6 +10,7 @@ public class Exception3 {
 
 		}
 
+	
 		catch (Exception e) {
 			System.out.println("the error" + e);
 		}

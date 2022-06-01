@@ -16,8 +16,8 @@ public class Dicionoperator1 {
 		}
 		
 		
-	/*int ageOfBoy = 36;
-	int ageOfGirl = 25;
+	int ageOfBoy = 36;
+	int ageOfGirl = 19;
 	if ((ageOfBoy >= 21)&& (ageOfGirl >= 18))
 	{
 	System.out.println("ready to get married!");
@@ -25,6 +25,6 @@ public class Dicionoperator1 {
 	else
 	{
 	System.out.println("Wait for it kiddo!");
-	*/}
+	}
 	
-}
+}}

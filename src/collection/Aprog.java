@@ -10,10 +10,10 @@ public class Aprog {
 		obj.add(40);
 		System.out.println(obj);
 		obj.remove();
-	obj.remove();	
-		System.out.println(obj);
+		
+	System.out.println(obj);	
 		System.out.println(obj.peek());
-obj.remove(2);
+		obj.remove(2);
 System.out.println(obj);		
 	}	
 

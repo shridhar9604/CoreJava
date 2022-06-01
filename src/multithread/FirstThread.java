@@ -10,7 +10,7 @@ public void run()
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 FirstThread ob=new FirstThread();
-ob.start();
+ob.run();
 	}
 
 }
