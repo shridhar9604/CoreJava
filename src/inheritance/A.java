@@ -4,7 +4,12 @@ public class A {
 	public void methodA() {
 		System.out.println("Base class method");
 	}
+	public void methodB() {
+		// TODO Auto-generated method stub
+		
+	}
 	class B extends A{
+				
 		public void methodB() {
 			System.out.println("Child class method");
 	   }
