@@ -1,6 +1,6 @@
 package abstraction;
 
-public abstract class AbstractSubClassEx3 extends AbstractEx2 {
+public  class AbstractclassEx3 extends AbstractclassEx2 {
 	String name, gender, city, country;
 
 	void getname(String name) {

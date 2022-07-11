@@ -1,6 +1,6 @@
 package abstraction;
 
-public class AbstractTest extends Abstractclass1 {
+public class Abstractclass1Test extends Abstractclass1 {
 
 	public void disp2()// ie is complete method (Conceret class)
 
@@ -10,7 +10,7 @@ public class AbstractTest extends Abstractclass1 {
 
 	public static void main(String[] args) {
 
-		AbstractTest obj = new AbstractTest();
+		Abstractclass1Test obj = new Abstractclass1Test();
 		obj.disp2();
 		obj.disp1();
 	}

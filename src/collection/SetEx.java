@@ -11,8 +11,8 @@ public class SetEx {
 		// TODO Auto-generated method stub
 		LinkedHashSet<String>se=new LinkedHashSet<String>();
 		se.add("Shridhar");
-		se.add("Suraj");
-		se.add("Nilesh");
+		se.add("Swapnil");
+		se.add("Dheeraj");
 		//se.remove(2);
 		{
 		System.out.println(se);

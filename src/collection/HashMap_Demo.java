@@ -8,9 +8,9 @@ public class HashMap_Demo {
 
 		HashMap < String,String> hm = new HashMap<String,String>();
 		hm.put("one", "Shridhar");
-		hm.put("two", "Suraj");
+		hm.put("two", "Swapnil");
 
-		hm.put("three", "Nilesh");
+		hm.put("three", "Sanket");
 
 		hm.put("one", "Ashwin");
 
