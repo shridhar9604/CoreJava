@@ -5,12 +5,13 @@ public class Exception9 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		try {
-			int data = 100 / 0;
-			System.out.println(data);
-		} catch (Exception e) {
-			System.out.println("can't devide integer by 0");
-		} finally {
-			System.out.println("The 'try catch'is finished. ");
+			int a,b;
+			 b=0;
+			int c=5/b;
+		System.out.println("A");
+		} catch ( ArithmeticException e) {
+			System.out.println("world");
+		
 		}
 	}
 

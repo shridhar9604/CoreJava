@@ -6,8 +6,9 @@ public class ExceptionEx1 {
 		{
 			try
 			{
-			System.out.println("inside try block");
-			System.exit(0);
+				
+			int i;
+			return;
 		}
 catch (Exception e)
 {
