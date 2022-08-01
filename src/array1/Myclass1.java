@@ -1,4 +1,4 @@
-package array;
+package array1;
 
 public class Myclass1 {
 	static int a=20;
